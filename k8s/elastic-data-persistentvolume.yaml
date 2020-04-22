@@ -11,4 +11,4 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "tmp\Documents\K8\elastic"
+   path: "/C/Users/jimmanuel/elastic"
