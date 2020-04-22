@@ -11,4 +11,4 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "C:\Users\User\Documents\K8\Postgres"
+   path: "tmp\K8\Postgres"
