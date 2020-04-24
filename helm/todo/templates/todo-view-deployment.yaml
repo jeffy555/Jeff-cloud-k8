@@ -6,7 +6,7 @@ metadata:
   labels:
     todo-app-deployment: todo-view
 spec:
-  replicas: 1
+  replicas: {{ .Values.replicas.todoView }}
   selector:
       matchLabels:
         todo-app-pod: todo-view
