@@ -11,4 +11,4 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "/C/Users/jimmanuel/elastic"
+   path: "/home/elastictodo"
