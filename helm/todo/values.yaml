@@ -1,5 +1,5 @@
 todoImageUser: j555
-todoVersion: 1.0
+todoVersion: "1.0"
 
 replicas:
   todoApiGateway: 2
