@@ -11,5 +11,5 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "/C/Users/jimmanuel/pgdata"
+   path: "/home/pgdata"
    type: Directory

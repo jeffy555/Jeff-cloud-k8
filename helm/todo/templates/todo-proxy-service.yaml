@@ -10,7 +10,7 @@ spec:
   selector:
     todo-app-pod: todo-proxy
   ports:
-  - name: "8080"
-    port: 8080
+  - name: "8082"
+    port: 8082
     targetPort: 80
 
